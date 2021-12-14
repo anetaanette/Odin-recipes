@@ -1,4 +1,4 @@
-section {
+.all {
   display: -ms-grid;
   display: grid;
       grid-template-areas: "one two three";
